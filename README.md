@@ -1,8 +1,5 @@
 🔑 Password Generator Project README Template
 1. Title and Description
-Start with a clear, engaging title and a brief summary.
-
-Markdown
 
 # Secure Password Generator
 
