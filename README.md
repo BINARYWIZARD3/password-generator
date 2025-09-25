@@ -27,5 +27,3 @@ List the key functionalities in bullet points.
 
 
 
-
-[**Live Demo Link**](https://your-deployed-link.com)
